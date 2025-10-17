@@ -1,6 +1,6 @@
 # Multi-Cloud Automation Toolkit ☁️
 
-Collection of Python scripts for managing AWS and Linode cloud resources with focus on:  
+Collection of Boto3(Pyhton) scripts for managing AWS and Linode cloud resources with focus on:  
 **EC2 maintenance • EKS clusters • Monitoring • Backup solutions**
 
 ## 📂 Scripts Overview
